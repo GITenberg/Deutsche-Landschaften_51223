@@ -1,0 +1,40 @@
+_repo: Deutsche-Landschaften_51223
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Goetz, Oswald
+    aliases:
+    - Gotz, Oswald
+    - Götz, Oswald
+    birthdate: 1896
+    deathdate: 1960
+    gutenberg_agent_id: '46313'
+    url: http://www.gutenberg.org/2009/agents/46313
+creator:
+  author:
+    agent_name: Dürer, Albrecht
+    aliases:
+    - Durer, Albrecht
+    - Durer, Albert
+    - Duerer, Albrecht
+    birthdate: 1471
+    deathdate: 1528
+    gutenberg_agent_id: '1135'
+    url: http://www.gutenberg.org/2009/agents/1135
+    wikipedia: http://en.wikipedia.org/wiki/Albrecht_Dürer
+description: ''
+gutenberg_issued: '2016-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51223'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Landscape painting, German'
+- !lcc 'ND'
+- !lcsh 'Watercolor painting, German'
+- GITenberg
+title: Deutsche Landschaften
+url: http://www.gutenberg.org/ebooks/51223
